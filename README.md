@@ -3,6 +3,12 @@ From here we manage our Student Branch.
 For more information please visit http://ieee.teithe.gr
 
 
+### Project ideas
+Πρότεινε μία ιδέα για project / propose a project idea:
+https://github.com/ieee-ateith-sb/managing_the_branch/projects/1
+
+
+
 > An English version of this text is at [the bottom](https://github.com/ieee-ateith-sb/managing_the_branch#essential-git-commands)
 
 ### Βασικές εντολές git
