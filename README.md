@@ -9,6 +9,8 @@ https://github.com/ieee-ateith-sb/managing_the_branch/projects/1
 
 
 
+Code Of Conduct: [ https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf]( https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf)
+
 > An English version of this text is at [the bottom](https://github.com/ieee-ateith-sb/managing_the_branch#essential-git-commands)
 
 ### Βασικές εντολές git
